@@ -1,7 +1,6 @@
 {
   "name": "learning_react",
   "private": true,
-  "homepage":"https://nayakaparna.github.io/reactFinalProject",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
